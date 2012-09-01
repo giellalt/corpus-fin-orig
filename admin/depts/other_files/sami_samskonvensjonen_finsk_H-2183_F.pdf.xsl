@@ -103,7 +103,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'sami_samekonvensjon_norsk.pdf'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'sami_samekonvensjon_samisk_H-2183.pdf'"/>
+<xsl:variable name="para_mixed" select="'sami_samekonvensjon_samisk_H-2183.pdf'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
