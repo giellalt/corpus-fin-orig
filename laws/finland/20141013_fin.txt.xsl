@@ -38,7 +38,7 @@
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
-    <xsl:variable name="genre" select="''"/>
+    <xsl:variable name="genre" select="'laws'"/>
     <xsl:variable name="collection" select="''"/>
     <xsl:variable name="translated_from" select="''"/>
     <xsl:variable name="translator_fn" select="''"/>
@@ -61,7 +61,7 @@
     <xsl:variable name="note" select="''"/>
 
     <!-- The main language of the document -->
-    <xsl:variable name="mainlang" select="''"/>
+    <xsl:variable name="mainlang" select="'fin'"/>
 
     <!-- In the case of a multilingual document, we may want to check for
          other languages. Set the variable monolingual to '1' to turn off
