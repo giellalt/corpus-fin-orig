@@ -92,7 +92,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="index.php_option=com_content_task=view_id=601_itemid=112_lang=davvi.html" xml:lang="sme"/>
+	<parallel_text location="" xml:lang="sme"/>
 	<parallel_text location="index.php_option=com_content_task=view_id=601_itemid=112_lang=nuortta.html" xml:lang="sms"/>
 	<parallel_text location="" xml:lang="smn"/>
 </xsl:variable>
