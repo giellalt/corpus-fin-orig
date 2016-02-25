@@ -120,7 +120,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    </xsl:variable>
+    <parallel_text location="index.php_option=com_content_task=view_id=415_itemid=195_lang=english.html" xml:lang="eng"/>
+<parallel_text location="index.php_option=com_content_task=view_id=415_itemid=195_lang=anaras.html" xml:lang="smn"/>
+</xsl:variable>
 
 
     <!--
