@@ -5,7 +5,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.samediggi.fi/index.php?option=com_content&amp;task=view&amp;id=784&amp;Itemid=195&amp;lang=finnish'"/>
+    <xsl:variable name="filename" select="'http://www.samediggi.fi/index.php?option=com_content&amp;task=view&amp;id=161&amp;Itemid=195&amp;lang=finnish'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -120,9 +120,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="index.php_option=com_content_task=view_id=784_itemid=195_lang=davvi.html" xml:lang="sme"/>
-<parallel_text location="index.php_option=com_content_task=view_id=784_itemid=195_lang=english.html" xml:lang="eng"/>
-<parallel_text location="index.php_option=com_content_task=view_id=784_itemid=195_lang=anaras.html" xml:lang="smn"/>
+    <parallel_text location="index.php_option=com_content_task=view_id=161_itemid=195_lang=nuortta.html" xml:lang="sms"/>
 </xsl:variable>
 
 
