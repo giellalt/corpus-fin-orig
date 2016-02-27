@@ -92,7 +92,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="" xml:lang="sme"/>
+	<parallel_text location="index2.php_option=com_content_task=view_id=163_lang=davvi.html" xml:lang="sme"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->

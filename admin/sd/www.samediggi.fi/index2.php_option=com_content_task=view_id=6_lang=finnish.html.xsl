@@ -93,8 +93,8 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="index2.php_option=com_content_task=view_id=6_lang=english.html" xml:lang="eng"/>
-	<parallel_text location="" xml:lang="sme"/>
-	<parallel_text location="" xml:lang="sms"/>
+	<parallel_text location="index2.php_option=com_content_task=view_id=6_lang=davvi.html" xml:lang="sme"/>
+	<parallel_text location="index2.php_option=com_content_task=view_id=6_lang=nuortta.html" xml:lang="sms"/>
 	<parallel_text location="index2.php_option=com_content_task=view_id=6_lang=anaras.html" xml:lang="smn"/>
 </xsl:variable>
 
