@@ -123,7 +123,7 @@
     <parallel_text location="index2.php_option=com_content_task=view_id=24_lang=anaras.html" xml:lang="smn"/>
 <parallel_text location="index2.php_option=com_content_task=view_id=24_lang=davvi.html" xml:lang="sme"/>
 <parallel_text location="index2.php_option=com_content_task=view_id=24_lang=nuortta.html" xml:lang="sms"/>
-<parallel_text location="index2.php_option=com_content_task=view_id=24_lang=english.html" xml:lang="eng"/>
+<parallel_text location="" xml:lang="eng"/>
 </xsl:variable>
 
 
