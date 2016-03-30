@@ -120,7 +120,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="index.php_option=com_docman_task=doc_download_gid=1695_itemid=10.pdf" xml:lang="sme"/>
+    <parallel_text location="jokkmok_julistussaame.pdf" xml:lang="sme"/>
 </xsl:variable>
 
 
