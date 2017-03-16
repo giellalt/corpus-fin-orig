@@ -120,10 +120,10 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="taysistunto_asialista_1_2016_psa.pdf" xml:lang="sme"/>
-<parallel_text location="sakael12016_koltansaame.pdf" xml:lang="sms"/>
-<parallel_text location="sakael12016_-_anarakiela.pdf" xml:lang="smn"/>
-</xsl:variable>
+        <parallel_text location="taysistunto_asialista_1_2016_psa.pdf" xml:lang="sme"/>
+        <parallel_text location="sakael12016_koltansaame.pdf" xml:lang="sms"/>
+        <!-- <parallel_text location="sakael12016_-_anarakiela.pdf" xml:lang="smn"/> -->
+    </xsl:variable>
 
 
     <!--
