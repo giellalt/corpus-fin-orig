@@ -70,14 +70,14 @@
     <xsl:variable name="author5_nat" select="''"/>
     <xsl:variable name="author5_born" select="''"/>
 
-    <xsl:variable name="publisher" select="''"/>
+    <xsl:variable name="publisher" select="'Metsähallitus'"/>
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
-    <xsl:variable name="ISBN" select="''"/>
-    <xsl:variable name="ISSN" select="''"/>
-    <xsl:variable name="place" select="''"/>
+    <xsl:variable name="year" select="'2017'"/>
+    <xsl:variable name="ISBN" select="'978-952-295-177-9'"/>
+    <xsl:variable name="ISSN" select="'1796-2943'"/>
+    <xsl:variable name="place" select="'Vantaa'"/>
 
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="genre" select="'admin'"/>

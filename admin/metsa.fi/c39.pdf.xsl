@@ -70,14 +70,14 @@
     <xsl:variable name="author5_nat" select="''"/>
     <xsl:variable name="author5_born" select="''"/>
 
-    <xsl:variable name="publisher" select="''"/>
+    <xsl:variable name="publisher" select="'Metsähallitus'"/>
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
-    <xsl:variable name="ISBN" select="''"/>
-    <xsl:variable name="ISSN" select="''"/>
-    <xsl:variable name="place" select="''"/>
+    <xsl:variable name="year" select="'2008'"/>
+    <xsl:variable name="ISBN" select="'978-952-446-605-9'"/>
+    <xsl:variable name="ISSN" select="'1796-2943'"/>
+    <xsl:variable name="place" select="'Jyväskylä'"/>
 
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="genre" select="'admin'"/>
@@ -186,7 +186,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1-3, 20, 23, 28, 31, 44-45, 62, 67, 135-137'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.

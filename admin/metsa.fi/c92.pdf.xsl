@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://julkaisut.metsa.fi/assets/pdf/lp/Csarja/c114.pdf'"/>
+    <xsl:variable name="filename" select="'https://julkaisut.metsa.fi/assets/pdf/lp/Csarja/c92.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--
@@ -70,14 +70,14 @@
     <xsl:variable name="author5_nat" select="''"/>
     <xsl:variable name="author5_born" select="''"/>
 
-    <xsl:variable name="publisher" select="''"/>
+    <xsl:variable name="publisher" select="'Metsähallitus'"/>
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
-    <xsl:variable name="ISBN" select="''"/>
-    <xsl:variable name="ISSN" select="''"/>
-    <xsl:variable name="place" select="''"/>
+    <xsl:variable name="year" select="'2011'"/>
+    <xsl:variable name="ISBN" select="'978-952-446-863-3'"/>
+    <xsl:variable name="ISSN" select="'1796-2943'"/>
+    <xsl:variable name="place" select="'Jyväskylä'"/>
 
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="genre" select="'admin'"/>
@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location=""/>
+        <parallel_text xml:lang="sme" location="c114.pdf"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
@@ -196,7 +196,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_lines" select="''"/>
+    <xsl:variable name="skip_lines" select="'1-3, 17, 36, 47, 53, 68, 77'"/>
 
     <!--
         Margin of a page in a pdf document expressed as a percentage of

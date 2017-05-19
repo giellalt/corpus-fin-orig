@@ -18,8 +18,8 @@
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="''"/>
-    <xsl:variable name="author1_ln" select="''"/>
+    <xsl:variable name="author1_fn" select="'Jyrki'"/>
+    <xsl:variable name="author1_ln" select="'Tolonen'"/>
     <!-- m, f or unknown -->
     <xsl:variable name="author1_gender" select="'unknown'"/>
     <!--
@@ -34,8 +34,8 @@
         Information of the second author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author2_fn" select="''"/>
-    <xsl:variable name="author2_ln" select="''"/>
+    <xsl:variable name="author2_fn" select="'Kirsi-Marja'"/>
+    <xsl:variable name="author2_ln" select="'Korhonen'"/>
     <xsl:variable name="author2_gender" select="'unknown'"/>
     <xsl:variable name="author2_nat" select="''"/>
     <xsl:variable name="author2_born" select="''"/>
@@ -44,8 +44,8 @@
         Information of the third author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author3_fn" select="''"/>
-    <xsl:variable name="author3_ln" select="''"/>
+    <xsl:variable name="author3_fn" select="'Hannu'"/>
+    <xsl:variable name="author3_ln" select="'Tilja'"/>
     <xsl:variable name="author3_gender" select="'unknown'"/>
     <xsl:variable name="author3_nat" select="''"/>
     <xsl:variable name="author3_born" select="''"/>
@@ -54,8 +54,8 @@
         Information of the fourth author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author4_fn" select="''"/>
-    <xsl:variable name="author4_ln" select="''"/>
+    <xsl:variable name="author4_fn" select="'Matti'"/>
+    <xsl:variable name="author4_ln" select="'Keränen'"/>
     <xsl:variable name="author4_gender" select="'unknown'"/>
     <xsl:variable name="author4_nat" select="''"/>
     <xsl:variable name="author4_born" select="''"/>
@@ -64,20 +64,20 @@
         Information of the fourth author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author5_fn" select="''"/>
-    <xsl:variable name="author5_ln" select="''"/>
+    <xsl:variable name="author5_fn" select="'Matti'"/>
+    <xsl:variable name="author5_ln" select="'Siipola'"/>
     <xsl:variable name="author5_gender" select="'unknown'"/>
     <xsl:variable name="author5_nat" select="''"/>
     <xsl:variable name="author5_born" select="''"/>
 
-    <xsl:variable name="publisher" select="''"/>
+    <xsl:variable name="publisher" select="'Metsähallitus'"/>
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
-    <xsl:variable name="ISBN" select="''"/>
-    <xsl:variable name="ISSN" select="''"/>
-    <xsl:variable name="place" select="''"/>
+    <xsl:variable name="year" select="'2013'"/>
+    <xsl:variable name="ISBN" select="'978-952-295-120-5'"/>
+    <xsl:variable name="ISSN" select="'1239-1670'"/>
+    <xsl:variable name="place" select="'Vantaa'"/>
 
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="genre" select="'admin'"/>
@@ -186,7 +186,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1-3, 35, 37, 38, 46, 90, 116-118, 144-145, 147-152'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
