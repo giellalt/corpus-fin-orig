@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://www.luontoon.fi/inari/aktiviteetit'"/>
+    <xsl:variable name="filename" select="'http://www.luontoon.fi/inari/palvelut'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--
@@ -159,7 +159,7 @@
     -->
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
-        <parallel_text xml:lang="eng" location="activities_inheritredirect=true.html"/>
+        <parallel_text xml:lang="eng" location=""/>
         <parallel_text xml:lang="fin" location=""/>
         <parallel_text xml:lang="fit" location=""/>
         <parallel_text xml:lang="fkv" location=""/>
@@ -171,9 +171,9 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="aktivitehtat_15.html"/>
+        <parallel_text xml:lang="sme" location="balvalusat_45.html"/>
         <parallel_text xml:lang="smj" location=""/>
-        <parallel_text xml:lang="smn" location="pudaldasmahdulasvuodah.html"/>
+        <parallel_text xml:lang="smn" location="palvalusah.html"/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
     </xsl:variable>
