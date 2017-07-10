@@ -171,7 +171,7 @@
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=510_lang=davvi.html"/>
         <parallel_text xml:lang="smj" location=""/>
-        <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=510_lang=anaras.html"/>
+        <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
     </xsl:variable>
