@@ -173,7 +173,7 @@
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location="anaragirkosiiddafanas.html"/>
         <parallel_text xml:lang="smj" location=""/>
-        <parallel_text xml:lang="smn" location=""/>
+        <parallel_text xml:lang="smn" location="aanaarmarkkankarbishaamman.html"/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
     </xsl:variable>

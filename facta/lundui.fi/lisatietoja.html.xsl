@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://www.luontoon.fi/ukonsaari?inheritRedirect=true'"/>
+    <xsl:variable name="filename" select="'http://www.luontoon.fi/luttojoenkolttakentat/lisatietoja'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--
@@ -159,7 +159,7 @@
     -->
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
-        <parallel_text xml:lang="eng" location="ukonsaariisland_inheritredirect=true.html"/>
+        <parallel_text xml:lang="eng" location=""/>
         <parallel_text xml:lang="fin" location=""/>
         <parallel_text xml:lang="fit" location=""/>
         <parallel_text xml:lang="fkv" location=""/>
@@ -171,10 +171,10 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="aijihaddja.html"/>
+        <parallel_text xml:lang="sme" location=""/>
         <parallel_text xml:lang="smj" location=""/>
-        <parallel_text xml:lang="smn" location="aijih.html"/>
-        <parallel_text xml:lang="sms" location=""/>
+        <parallel_text xml:lang="smn" location=""/>
+        <parallel_text xml:lang="sms" location="laassteadaid_1.html"/>
         <parallel_text xml:lang="swe" location=""/>
     </xsl:variable>
 
