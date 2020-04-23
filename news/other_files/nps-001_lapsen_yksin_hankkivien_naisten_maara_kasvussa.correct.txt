@@ -66,14 +66,14 @@ YLE Uutiset / Heidi Asplund
 
 Kommentit
 Uusimmat kommentit ensin | Vanhimmat kommentit ensin
-S.Piira$(prop,x|S. Piira), 04.04. klo 21:17
+{S.Piira}${prop,x|S. Piira}, 04.04. klo 21:17
 
-Kuuleppas$(noun,x|Kuulepas) sinä "luojan laskuvirhe", taidat todella olla
+{Kuuleppas}${noun,x|Kuulepas} sinä "luojan laskuvirhe", taidat todella olla
 sitä mitä nimimerkkisi osoittaa, sillä vastikään täällä YLR Uutisissa oli
 oikein kuva ja uutinen siitä, kuinka moni keinohedelmöityksellä alkunsa
 saava lapsi on vammainen syntyessään. 
 
-Ajatteleppa$(verb,x|Ajatteleppa) jo
+{Ajatteleppa}${verb,x|Ajatteleppa} jo
 keinohedelmöitystilannetta, jossa munasolun sisään laitetaan
 siittiö/siittiöitä. Ei se ole luonnollinen tapa tehdä lapsia. 
 
@@ -91,7 +91,7 @@ tekevät yhteisellä päätöksellä yhteisiä omia lapsia.
 
 Entä tilanne, kun
 lapsi katsoo isoilla suurilla ihmettelevillä silmillään ja kysyy, kuka
-mun$(pron,x|minun) isi on, kun kaikilla on isi...??!! Vammaisia lapsia
+{mun}${pron,x|minun} isi on, kun kaikilla on isi...??!! Vammaisia lapsia
 syntyy yleensä 40 vuotiaille naisille, mutta näiden vammat ovat sattumaa,
 eivätkä kuten keinohedelmöitetyt lapset tahallaan lapselle hankittuja
 vammoja. 
@@ -107,13 +107,13 @@ kävi tyttäreni kohdalla, vaikka poika halusikin lapsen syntyvän, mutta ei
 ollut aikaa olla isä. Mikähän ero siinä on olla yksinhuoltaja, kun miehillä
 ei ole aikaa tai olla jälkeläisten tai perheensä kanssa, syystä tai
 toisesta. Eikä sitä aikaa tunnu olevan kunnollisillakaan. Mikä ihme se
-sitten on, että naiset hankkivat lapsia näin?Pitäsikö$(x,x|näin? Pitäsikö)
+sitten on, että naiset hankkivat lapsia {näin?Pitäsikö}${x,x|näin? Pitäsikö}
 katsoa vielä sitä mies lasta joka baareilee ja eksyy kotiinkin välillä,
-vaihatmaan vaaatteita$(noun,x|vaatteita)? Kuka siinä itsekäs on? Kuka siis
+vaihatmaan {vaaatteita}${noun,x|vaatteita}? Kuka siinä itsekäs on? Kuka siis
 viime kädessä on itsekäs ja narsisti - nimitys on täällä selkesti mennyt
 muoti sanaksi. Jos halua lapsia jossain järkevässä iässä eikä
-nelikymppisenä, vaihtoehdot on vähissä. Itsekkin$(pron,xItsekin) aikaan
-yksin hultaja$(noun,x|huoltaja) kasvatin lapset kunnollisa olivat isä vaan
+nelikymppisenä, vaihtoehdot on vähissä. {Itsekkin}${pron,xItsekin} aikaan
+yksin {hultaja}${noun,x|huoltaja} kasvatin lapset kunnollisa olivat isä vaan
 ei aikaa kuin juuri se viikonloppu kaksi kertaa kuukaudessa, sekö on
 lapselle riittävä aika? 4 päivää kuukaudessa? En sääli miehiä, ei ole
 säälittävää, miksi valittaa täällä palstalla kun ei kuitenkaan valmiuksia
