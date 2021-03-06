@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=2506&amp;Itemid=10'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Saamen kielikylpy koulussa – miten tuen omaa kieltä ja kulttuuria opetuksessa'"/>
+    <xsl:variable name="title" select="'Saamen kielikylpy koulussa – miten tuen omaa kieltä ja kulttuuria opetuksessa'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

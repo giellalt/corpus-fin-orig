@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://jll.se/download/18.420a58c9144917fddc910f7/1394722429041/Obsskylt+avlång+kondom+resa+Finska.pdf'"/>
+    <xsl:variable name="filename" select="'http://jll.se/download/18.420a58c9144917fddc910f7/1394722429041/Obsskylt+avlång+kondom+resa+Finska.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--
